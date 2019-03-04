@@ -14,6 +14,7 @@ We would like you to spend no more than a couple of hours on this task.
  - We would like to see your journey, so please use your git commits to tell us a story
  - We love TDD so some kind of test suite is a plus, we don't need a full test suite but some tests covering the important logic would be better
  - If you'd like to show off your front-end knowledge, you could create a view that shows the videos that have been imported.
+ - If you can't achieve everything in the time, use the readme to tell us what you would do next.
 
 ## Deliverables
 
