@@ -12,6 +12,7 @@ We would like you to spend no more than a couple of hours on this task.
 * We would like to see your journey, so please use your git commits to tell us a story
 * We love TDD so some kind of test suite is a plus, we aren't expecting a full test suite
 * If you'd like to show off your front-end knowledge, then feel free to create a simple frontend using any modern frontend framework.
+* We'd like an approach for data retrieval and filtering that is more performant and scalable than looping over all records in memory.
 * If you can't achieve everything in the time use the readme to tell us what you would do next.
 
 # Deliverables
